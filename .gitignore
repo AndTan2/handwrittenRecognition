@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDE and editor settings
+.idea/
+.vscode/
+
+# Logs and TensorBoard
+logs/
+*.log
+events.out.tfevents.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Checkpoints
+checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
